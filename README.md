@@ -1,3 +1,6 @@
+![Untitled-1](https://github.com/user-attachments/assets/e705eaae-8fa2-404b-bcf8-7e03b98ac5a6)
+
+
 # Personalized Learning Path Recommender System
 
 **Semi-Final Project** for the **Samsung Innovation Campus (SIC)**
